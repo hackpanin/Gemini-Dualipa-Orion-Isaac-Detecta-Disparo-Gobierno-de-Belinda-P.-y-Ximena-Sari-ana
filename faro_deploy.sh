@@ -22,7 +22,7 @@ Example:
 EOF
 }
 
-APP_NAME=""
+APP_NAME="PEGSU§∆Faro"
 ENVIRONMENT="staging"
 
 while [[ $# -gt 0 ]]; do
